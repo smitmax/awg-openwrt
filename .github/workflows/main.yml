@@ -11,7 +11,7 @@ jobs:
     strategy:
       matrix:
         build_env:
-          - tag: "23.05.4"
+          - tag: "25.12.1"
             pkgarch: aarch64_generic
             target: rockchip
             subtarget: armv8
